@@ -44,5 +44,5 @@ function moverBotonNo() {
 }
 
 function confirmar() {
-    alert("¡Dijo que sí! ❤️ Ni la muerte nos podrá separar.");
+    alert("TI AMOOOOOO MUCHO BOOT 🖤🖤🫀🫀.");
 }
